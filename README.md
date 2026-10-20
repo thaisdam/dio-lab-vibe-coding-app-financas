@@ -169,7 +169,93 @@ Notificações amigáveis sobre comportamentos importantes.
 
 ## 🎨 Protótipo no Lovable
 
-(vamos adicionar prints/vídeo no Passo 4)
+🔗 **Acesse o app:** [PlanTha no Lovable](https://plantha.lovable.app/)
+
+### Prompt utilizado no Lovable
+
+```txt
+Crie um aplicativo mobile-first chamado PlanTha, em português do Brasil, focado em organização financeira pessoal por meio de conversa com uma assistente de IA.
+
+FUNCIONALIDADE PRINCIPAL
+
+Um chat onde o usuário registra receitas, despesas e metas usando linguagem natural (ex.: "gastei R$ 25 no lanche"). A assistente interpreta a mensagem, categoriza a transação automaticamente e responde de forma amigável (ex.: "Despesa registrada: R$ 25 em Alimentação 🍔").
+
+Como é um protótipo, simule as respostas da IA e use dados fictícios realistas para demonstrar o funcionamento.
+
+CATEGORIAS
+
+Alimentação, Transporte, Moradia, Lazer, Saúde, Educação, Compras, Assinaturas, Salário e Outros.
+
+TELAS (5)
+
+1. Onboarding: apresentação do app, benefícios e botão "Começar".
+
+2. Chat (tela principal): histórico de conversa, campo de mensagem e botões de sugestões rápidas.
+
+3. Resumo Financeiro: saldo, receitas, despesas, maior categoria de gasto e gráfico por categoria.
+
+4. Metas: lista de metas com valor, valor acumulado, barra de progresso (%) e valor restante.
+
+5. Perfil: configurações, notificações e privacidade.
+
+Inclua uma barra de navegação inferior com ícones e texto.
+
+ALERTAS INTELIGENTES
+
+Mensagens amigáveis no chat, como "Você já usou 85% do orçamento de Lazer" ou "Faltam R$ 80 para sua meta mensal!".
+
+IDENTIDADE VISUAL
+
+Estilo fofo, minimalista e acolhedor, com cantos arredondados e tema claro.
+
+Cores: rosa pastel #F8BBD0, azul pastel #B3E5FC, amarelo pastel #FFF3B0, destaque #6C63FF e texto escuro #3A3346.
+
+Fontes: Poppins para títulos e Inter para textos.
+
+ACESSIBILIDADE
+
+Alto contraste entre texto e fundo, fontes legíveis, ícones sempre acompanhados de texto e informações que não dependam apenas de cores.
+
+PERSONALIDADE DA ASSISTENTE
+
+Empática, motivadora, clara e sem termos técnicos, focada em ajudar iniciantes a criar bons hábitos financeiros.
+```
+
+### 📱 Telas do App
+
+**Onboarding**
+
+<img width="1920" height="1020" alt="onboarding" src="https://github.com/user-attachments/assets/56b300cf-ce20-49b3-8a9d-ad72a928c441" />
+
+
+**Chat com a Tha**
+
+<img width="1920" height="1020" alt="chat" src="https://github.com/user-attachments/assets/4f8488e7-164c-407c-a03d-a1ba6552bffb" />
+
+
+**Resumo Financeiro**
+
+<img width="1920" height="1020" alt="resumo" src="https://github.com/user-attachments/assets/b10b3efc-b2a0-4de0-b2f4-fd2236df65d5" />
+
+
+**Metas**
+
+<img width="1920" height="1020" alt="metas" src="https://github.com/user-attachments/assets/d3242a52-51ff-41eb-a322-2f621164303f" />
+
+
+**Perfil**
+
+<img width="1920" height="1020" alt="perfil" src="https://github.com/user-attachments/assets/fef07948-9121-4768-85a2-b50455ab5fd3" />
+
+
+### 🛠️ Corrigindo erros com a IA
+
+Ao navegar pelas telas, o app apresentou o erro "This page didn't load".
+Usei a função "Corrigir erro" do Lovable e a IA resolveu o problema.
+
+<img width="1920" height="1020" alt="erro" src="https://github.com/user-attachments/assets/37c5bd74-a9e9-414d-ae65-f8e94f41c421" />
+
+
 
 ## 💡 Conceito do App
 
