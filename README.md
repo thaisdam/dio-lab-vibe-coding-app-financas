@@ -166,6 +166,13 @@ Notificações amigáveis sobre comportamentos importantes.
 **Tipografia:** Poppins (títulos) e Inter (textos).
 
 ```
+### 📸 Interação com o Copilot
+
+<img width="1920" height="1020" alt="prompt inicial" src="https://github.com/user-attachments/assets/867dff4c-4334-4663-b152-3376838096ce" />
+<img width="1920" height="1020" alt="prompt inicial 2" src="https://github.com/user-attachments/assets/b305b73f-1630-4e96-8458-1be55b13ab65" />
+<img width="1920" height="1020" alt="ajuste prompt inicial" src="https://github.com/user-attachments/assets/847cce14-4cb2-456b-9959-cd9169bf3c52" />
+
+
 
 ## 🎨 Protótipo no Lovable
 
@@ -225,12 +232,14 @@ Empática, motivadora, clara e sem termos técnicos, focada em ajudar iniciantes
 
 **Onboarding**
 
-<img width="1920" height="1020" alt="onboarding" src="https://github.com/user-attachments/assets/56b300cf-ce20-49b3-8a9d-ad72a928c441" />
+<img width="1920" height="1020" alt="onboarding" src="https://github.com/user-attachments/assets/21803d7c-fee4-46c7-b611-5474f0b521e2" />
+
 
 
 **Chat com a Tha**
 
-<img width="1920" height="1020" alt="chat" src="https://github.com/user-attachments/assets/4f8488e7-164c-407c-a03d-a1ba6552bffb" />
+<img width="1920" height="1020" alt="chat" src="https://github.com/user-attachments/assets/8e2d0107-3952-4f25-9ff2-1d19ae602e9d" />
+
 
 
 **Resumo Financeiro**
@@ -259,8 +268,22 @@ Usei a função "Corrigir erro" do Lovable e a IA resolveu o problema.
 
 ## 💡 Conceito do App
 
-(vamos escrever depois)
+O **PlanTha** nasceu para quebrar a barreira e a frustração que a maioria das pessoas sente ao tentar organizar suas finanças com planilhas complexas ou formulários burocráticos.
+
+### Pilares do Conceito:
+- **Conversa Natural com a "Tha":** Em vez de preencher formulários com datas, categorias e valores, o usuário apenas envia uma mensagem como se estivesse conversando no WhatsApp (ex.: *"paguei 1100 de aluguel"* ou *"gastei 25 no lanche"*). A assistente virtual **Tha** interpreta a mensagem e categoriza tudo automaticamente com um tom empático e motivador.
+- **Visual Acolhedor e Acessível:** Fugindo do aspecto frio e estressante dos apps de bancos tradicionais, o PlanTha adota uma identidade visual "fofa" e leve, com tons pastéis (rosa, azul e amarelo) e tipografia legível, tornando a rotina de cuidar do dinheiro uma experiência positiva.
+- **Proatividade e Alertas Amigáveis:** A IA atua ativamente, avisando quando limites de categorias estão próximos do fim ou celebrando o progresso de metas de economia.
+- **Foco em Iniciantes:** Projetado especificamente para jovens em início de vida financeira que buscam independência sem complicações.
+
+---
 
 ## 🧠 O que aprendi
 
-(vamos escrever no final)
+A realização deste desafio proporcionou uma imersão prática na metodologia **Vibe Coding** e no desenvolvimento guiado por Inteligência Artificial:
+
+1. **A importância de um bom PRD e de prompts estruturados:** A IA entrega exatamente a clareza que recebe. Ao estruturar primeiro o problema, o público e as funcionalidades no Copilot, o prompt enviado ao Lovable foi muito mais assertivo, gerando telas completas e contextualizadas logo de primeira.
+2. **A IA como parceira criativa e colaborativa:** A assistente "Tha", a escolha dos emojis e os exemplos contextualizados surgiram da co-criação com as ferramentas, mostrando como o papel humano muda de "escrever código linha por linha" para "direcionar intenção, estética e produto".
+3. **Resolução de problemas e iteração:** Durante a navegação no Lovable, me deparei com o erro de tela (`This page didn't load`). Utilizar a ferramenta de autocorreção da própria IA demonstrou que o Vibe Coding é um ciclo iterativo de testes, identificação de falhas e refinamento rápido.
+4. **Velocidade de prototipagem:** Ter um protótipo funcional, publicado e testável no ar em menos de uma hora comprova o poder das ferramentas no-code e de IA generativa para validação de ideias de negócio.
+
